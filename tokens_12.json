@@ -22,6 +22,11 @@
           "lightest": {
             "value": "#D2D2D2",
             "type": "color"
+          },
+          "testecarol": {
+            "value": "{$color.function.primary.default}",
+            "type": "color",
+            "description": "teste"
           }
         },
         "background": {
@@ -2004,5 +2009,13 @@
       "value": "52",
       "type": "fontSizes"
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Smarket",
+      "Colab",
+      "Smarketfy"
+    ]
   }
 }
