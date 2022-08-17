@@ -2010,12 +2010,21 @@
       "type": "fontSizes"
     }
   },
+  "Teste Carol Novo Guide": {
+    "cor": {
+      "rosa": {
+        "value": "#f102ff",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Smarket",
       "Colab",
-      "Smarketfy"
+      "Smarketfy",
+      "Teste Carol Novo Guide"
     ]
   }
 }
